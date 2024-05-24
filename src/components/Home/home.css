@@ -1,0 +1,14 @@
+.seccion-banner{
+    background: url(./banner.jpg) #0000009f;
+    background-position: center bottom;
+    background-size: cover;
+   background-blend-mode: multiply;
+    .row{
+       min-height: 400px;
+       .col-banner{
+           background-color: #4b4b4bb4;
+           padding: 2rem;
+           border-radius: 10px;
+       }
+    } 
+   }

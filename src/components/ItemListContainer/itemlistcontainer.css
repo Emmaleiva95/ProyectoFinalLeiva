@@ -1,0 +1,16 @@
+.contenedor-categorias{
+    width: fit-content;
+    padding: 1rem;
+    margin: auto;
+    border-radius: 30px;
+
+    a{
+        color: #fff;
+        text-decoration: none;
+        margin-inline: 8px;
+        transition: all .3s ease;
+        &:hover{
+            opacity: .5;
+        }
+    }
+}
